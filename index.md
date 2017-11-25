@@ -8,7 +8,7 @@ You can @mention a GitHub username as followed which I made like a copycat below
 
 ### Support or Contact [They-us](https://alexu.xyz/).
 
-Having trouble with Pages Still?? Come on, I beg your forgiviness for my [dity words](https://www.alexu.xyz/) in my mind which i don't want say it out to others, My level only makes me survive. Go Check out git page's professional [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and they are going to help you to sort it out definitely.
+Having trouble with Pages Still?? Come on, I beg your forgiviness for my [dirty words](https://www.alexu.xyz/) in my mind which i don't want say it out to others, My level only makes me survive. Go Check out git page's professional [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and they are going to help you to sort it out definitely.
 
 Have fun then.
 
