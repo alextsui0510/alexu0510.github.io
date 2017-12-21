@@ -1,1 +1,8 @@
+title: Alex's Imaginary Free actually Faked Wor'l'd
+description: Some~thing you may name it so-called "Real Free Cyberspace"
+google_analytics:
+show_downloads: false
 theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
